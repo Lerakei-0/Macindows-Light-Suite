@@ -3,6 +3,7 @@ Dot files and explanations for My version of the <a href="https://www.deviantart
 <img width="2559" height="1439" alt="macindows skin" src="https://github.com/user-attachments/assets/77383384-503c-4323-8eef-eac7970d1ccd" />
 
 # Software Needed
+SecureUxTheme: <a href="https://github.com/namazso/SecureUxTheme">Link</a>\
 Nilesoft Shell : <a href="https://nilesoft.org">Link</a>\
 Windhawk : <a href="https://windhawk.net/">Link</a>\
 Explorer Patcher: <a href="https://github.com/valinet/ExplorerPatcher">Link</a>\
@@ -10,6 +11,11 @@ MicaforEveryone: <a href="https://github.com/MicaForEveryone/MicaForEveryone">Li
 TackyBorders: <a href="https://github.com/lukeyou05/tacky-borders">Link</a>\
 Rainmeter: <a href="https://www.rainmeter.net/">Link</a>\
 BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/BigBlueTerminal">Link</a>
+
+## SecureUxTheme
+- Install SecureUxTheme
+- Export Niivu's Theme in 'C:\Windows\Resources\Themes'
+- Select your preferred Light Variant
 
 ## Nilesoft Shell
 Use Full config given here as some symbols are changed due to conflicts with the explorer font changer mod!
