@@ -11,7 +11,7 @@ TackyBorders: <a href="https://github.com/lukeyou05/tacky-borders">Link</a>\
 Rainmeter: <a href="https://www.rainmeter.net/">Link</a>
 
 ## Nilesoft Shell
-text
+Use Full config given here as some symbols are changed due to conflicts with the explorer font changer mod!
 
 ## Windhawk
 ### Mods needed:
@@ -31,5 +31,7 @@ Keep original W11 Taskbar
 - "Disable modern search bar"
 - Pick "Control Interface * : Windows 7 Command Bar" and "Title bar : Hide icon and title"
 ## MicaforEveryone
+<img width="593" height="442" alt="Capture d&#39;écran 2025-12-04 225304" src="https://github.com/user-attachments/assets/a0f74c06-d96c-4905-b479-dde6515ed80a" />
+
 ## TackyBorders
 ## Rainmeter
