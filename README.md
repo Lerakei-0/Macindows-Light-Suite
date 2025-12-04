@@ -1,6 +1,7 @@
 # Macindows-Light-Suite
 Dot files and explanations for My version of the <a href="https://www.deviantart.com/niivu/art/macindows-for-Windows-11-1133407537">Macindows theme</a> by <a href="https://www.deviantart.com/niivu">Niivu</a> 
-<img width="2559" height="1439" alt="macindows skin" src="https://github.com/user-attachments/assets/77383384-503c-4323-8eef-eac7970d1ccd" />
+<img width="2559" height="1439" alt="macindowsskin" src="https://github.com/user-attachments/assets/7c0c2bac-7d8c-4689-8cf2-255ad4dbd686" />
+
 
 # Software Needed
 SecureUxTheme: <a href="https://github.com/namazso/SecureUxTheme">Link</a>\
