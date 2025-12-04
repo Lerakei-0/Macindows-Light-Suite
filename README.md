@@ -10,7 +10,7 @@ Explorer Patcher: <a href="https://github.com/valinet/ExplorerPatcher">Link</a>\
 MicaforEveryone: <a href="https://github.com/MicaForEveryone/MicaForEveryone">Link</a>\
 TackyBorders: <a href="https://github.com/lukeyou05/tacky-borders">Link</a>\
 Rainmeter: <a href="https://www.rainmeter.net/">Link</a>\
-BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/BigBlueTerminal">Link</a>
+BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/BigBlueTerminal">Link</a> (All)
 
 ## SecureUxTheme
 - Install SecureUxTheme
