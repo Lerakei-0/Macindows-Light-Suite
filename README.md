@@ -9,7 +9,7 @@ Explorer Patcher: <a href="https://github.com/valinet/ExplorerPatcher">Link</a>\
 MicaforEveryone: <a href="https://github.com/MicaForEveryone/MicaForEveryone">Link</a>\
 TackyBorders: <a href="https://github.com/lukeyou05/tacky-borders">Link</a>\
 Rainmeter: <a href="https://www.rainmeter.net/">Link</a>\
-BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#patched-fonts">Link</a>
+BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/BigBlueTerminal">Link</a>
 
 ## Nilesoft Shell
 Use Full config given here as some symbols are changed due to conflicts with the explorer font changer mod!
