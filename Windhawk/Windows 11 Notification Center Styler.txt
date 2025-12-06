@@ -175,5 +175,8 @@
   "controlStyles[63].styles[1]": "FontWeight=SemiBold",
   "controlStyles[64].target": "Windows.UI.Xaml.Controls.Button#ShareButton > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.ContentPresenter#ContentPresenter > Windows.UI.Xaml.Controls.TextBlock",
   "controlStyles[64].styles[0]": "FontWeight=SemiBold",
-  "controlStyles[64].styles[1]": "FontFamily=Segoe Fluent Icons"
+  "controlStyles[64].styles[1]": "FontFamily=Segoe Fluent Icons",
+  "controlStyles[65].target": "Windows.UI.Xaml.Controls.Border#ToastBackgroundBorder2",
+  "controlStyles[65].styles[0]": "BorderBrush=#000000",
+  "controlStyles[65].styles[1]": "BorderThickness=2"
 }
