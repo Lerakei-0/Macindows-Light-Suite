@@ -178,5 +178,11 @@
   "controlStyles[64].styles[1]": "FontFamily=Segoe Fluent Icons",
   "controlStyles[65].target": "Windows.UI.Xaml.Controls.Border#ToastBackgroundBorder2",
   "controlStyles[65].styles[0]": "BorderBrush=#000000",
-  "controlStyles[65].styles[1]": "BorderThickness=2"
+  "controlStyles[65].styles[1]": "BorderThickness=2",
+  "controlStyles[66].target": "Windows.UI.Xaml.Controls.Button#PreviousButton > Windows.UI.Xaml.Controls.ContentPresenter#Text > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[66].styles[0]": "FontFamily=Segoe Fluent Icons",
+  "controlStyles[66].styles[1]": "FontWeight=SemiBold",
+  "controlStyles[67].target": "Windows.UI.Xaml.Controls.Button#NextButton > Windows.UI.Xaml.Controls.ContentPresenter#Text > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[67].styles[0]": "FontFamily=Segoe Fluent Icons",
+  "controlStyles[67].styles[1]": "FontWeight=SemiBold"
 }
