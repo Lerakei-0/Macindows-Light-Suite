@@ -13,7 +13,7 @@
   "styleConstants[8]": "ColorDisabled=#aaaaaa",
   "styleConstants[9]": "ColorSuggestionBg=#FFFFFF",
   "styleConstants[10]": "ColorForeground=#000000",
-   "styleConstants[11]": "CustomFont=Georgia Nerd Font",
+  "styleConstants[11]": "CustomFont=Georgia Nerd Font",
   "controlStyles[0].target": "TabViewItem > Grid#LayoutRoot",
   "controlStyles[0].styles[0]": "CornerRadius=4",
   "controlStyles[0].styles[1]": "Margin=0,-3,0,2",
