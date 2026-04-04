@@ -31,6 +31,7 @@ Use Full config given here as some symbols are changed due to conflicts with the
 - Windows 11 Notification Center Styler
 - Windows 11 Start Menu Styler
 - Windows 11 Taskbar Styler
+- Windows 11 File Explorer Styler (if you don't wanna use the Windows 7 Command Bar option in explorer Patcher)  
 ## Explorer Patcher
 ### Taskbar:
 Keep original W11 Taskbar
